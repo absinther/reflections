@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git creates a config folder which is hidden named .git
